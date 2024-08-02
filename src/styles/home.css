@@ -1,0 +1,31 @@
+.home{
+    margin:200px;
+}
+.income{
+    color: green;
+}
+.expense{
+    color:red
+}
+.card{
+    display: inline-block !important;
+    margin:2rem 3rem;
+
+}
+.list-group-item{
+    display:flex !important;
+    justify-content: space-between;  
+}
+#income{
+    border-left:solid 5px greenyellow ;
+}
+#expense{
+    border-left:solid 5px red ;
+}
+ h3{
+    margin:1rem 3rem;
+}
+.list-group, .form,.balanceCard{
+    margin: 1rem 2.8rem;
+}
+
